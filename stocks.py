@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 stock_symbols = [
     'BRITANNIA.NS', 'TATACONSUM.NS', 'TITAN.NS', 'NESTLEIND.NS', 'ITC.NS',
     'HEROMOTOCO.NS', 'ULTRACEMCO.NS', 'APOLLOHOSP.NS', 'ADANIENT.NS', 'BAJAJFINSV.NS',
@@ -13,10 +7,3 @@ stock_symbols = [
     'INDUSINDBK.NS', 'WIPRO.NS', 'TECHM.NS', 'CIPLA.NS'
     # Add more stock symbols as needed
 ]
-
-
-# In[ ]:
-
-
-
-
